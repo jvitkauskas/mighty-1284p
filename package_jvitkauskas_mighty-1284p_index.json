@@ -1,0 +1,36 @@
+{
+  "packages": [
+    {
+      "name": "mighty-1284p",
+      "maintainer": "Julius Vitkauskas",
+      "websiteURL": "https://github.com/jvitkauskas/mighty-1284p",
+      "email": "",
+      "help": {
+        "online": ""
+      },
+      "platforms": [
+        {
+          "name": "mighty-1284p",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "mighty-1284p",
+          "help": {
+            "online": ""
+          },
+          "url": "https://github.com/jvitkauskas/mighty-1284p/archive/f9a028348c9e76caad87ddf99a773a3d5fb918a8.zip",
+          "archiveFileName": "f9a028348c9e76caad87ddf99a773a3d5fb918a8.zip",
+          "checksum": "SHA-256:8ca658e19d5f99852518bc99b7bd88b8b79296d496144f237fc18462d8b946db",
+          "size": "614247",
+          "boards": [
+            {"name": "avr-developers.com pinouts 16MHz"},
+            {"name": "Bobuino"},
+            {"name": "RFX 1284P Development/Deployment Board"},
+            {"name": "Mighty Mini 1284P"},
+            {"name": "\"maniacbug\" Mighty 1284p 16MHz using Optiboot"}
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
